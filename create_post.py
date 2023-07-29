@@ -29,7 +29,7 @@ def write_frontmatter(args, current_time):
     f.write(f"tags: [{format_tags(args.tags)}]\n")
     f.write(f"author: {args.author}\n")
     f.write("---\n")
-    f.write("{data}\n")
+    f.write(story_text+"\n")
     f.close()
     
 if __name__ == "__main__":
