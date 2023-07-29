@@ -13,7 +13,7 @@ def format_filename(date, title):
 
 def write_frontmatter(args, current_time):
     text_file = open(args.content, "r")
-    story_text = text_file.read()
+    story_text = text_file.read().strip()
     text_file.close()
     first_sentence_index = story_text.find('.')
     args.title = story_text[0: first_sentence_index]
