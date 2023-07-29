@@ -1,7 +1,8 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 dir=$PWD
-
+while true
+do
 cd ../llama2.c
 ./run out44m/model44m.bin
 cp output.txt "$dir/output.txt"
@@ -11,3 +12,5 @@ git add *
 git commit -a -m "New Story"
 git push
 
+sleep 21600
+done
