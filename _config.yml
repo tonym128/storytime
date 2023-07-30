@@ -26,7 +26,7 @@ baseurl: "/storytime" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tonymamacos
 github_username:  tonym128
-google_analytics: G-K9CVGWTTCP
+google_analytics: G-WSSZSBE6M4
 
 # Build settings
 remote_theme: jekyll/minima
