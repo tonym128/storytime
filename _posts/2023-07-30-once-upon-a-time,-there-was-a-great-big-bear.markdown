@@ -1,0 +1,14 @@
+---
+layout: post
+title: Once upon a time, there was a great big bear
+date: 2023-07-30 04:26:31 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a great big bear. He was so big that he needed a large frame to live in. One day, he went to the forest to find a frame. He looked around and found a large frame! He was so happy!
+The bear went to the frame to mind it. He wanted to keep it nice and safe. But then something bad happened. The bear was so excited to have the frame that he forgot to mind it. The frame fell to the ground and broke into many pieces.
+The bear was sad that he couldn't keep the frame safe. He felt very disappointed. He had learned his lesson and was very scared that he might not be able to mind it ever again.
+The bear never got to fix the frame. He was so sad and his bad ending meant he had to get a new frame that was always safe.
