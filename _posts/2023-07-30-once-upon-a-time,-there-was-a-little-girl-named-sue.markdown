@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Sue
+date: 2023-07-30 22:27:32 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a little girl named Sue. Sue had a big dog named Max. They liked to play in the open yard. One day, they saw a big cobweb in the yard. Sue and Max were scared.
+Sue said to Max, "Max, let's hurry and move away from the cobweb." Max nodded and they ran away from the cobweb. They found a new hiding spot and felt safe.
+Later, Sue and Max went back to the cobweb. They saw a tiny spider named Sam. Sam said, "Thank you for not touching my cobweb." Sue and Max were happy they did not touch the cobweb. They made a new friend that day.
