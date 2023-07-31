@@ -1,0 +1,14 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-07-31 16:29:00 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a little girl named Lily. She had a teddy bear that she loved very much. One day, her mommy told her that this toy was very expensive. 
+Lily didn't understand what "expensive" meant, so her mommy explained that it meant the toy cost a lot of money. Lily didn't care about that, she just wanted to play with the teddy bear. 
+Later that day, Lily and her teddy bear went outside to play. Suddenly, Lily fell down and hurt her knee. She started to cry. Her mommy came to comfort her and gave her a big hug. 
+Lily's mommy told her that sometimes we don't care about expensive things, we just want to get help and care for our loved ones. She also reminded her that her teddy bear was just a toy and that she loved him very much. From that day on, Lily realized that her mommy was right and that her teddy bear was more important than any expensive toy she wanted.
