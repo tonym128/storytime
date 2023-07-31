@@ -1,6 +1,4 @@
 #!/bin/bash
-while true
-do
 cd "$(dirname "$0")"
 dir=$PWD
 cd ../llama2.c
@@ -11,6 +9,3 @@ python ./create_post.py --content output.txt
 git add *
 git commit -a -m "New Story"
 git push
-
-sleep 21600
-done
