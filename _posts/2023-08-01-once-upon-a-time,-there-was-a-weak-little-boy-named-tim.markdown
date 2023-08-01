@@ -1,0 +1,14 @@
+---
+layout: post
+title: Once upon a time, there was a weak little boy named Tim
+date: 2023-08-01 20:28:22 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a weak little boy named Tim. He had a toy car that he loved to play with. Tim wanted to add more fun to his toy car, so he asked his mom for help.
+"Mom, can you help me add more fun to my car?" Tim asked. His mom thought for a moment and said, "Yes, Tim. Let's add more wheels to make it go faster!"
+Tim and his mom went to find more wheels for the toy car. They found a red one, a blue one, and a yellow one. Tim was very happy. He put the wheels on his car and started to play with it.
+As Tim played with his toy car, he saw a big hill. He thought it would be fun to make his car go down the hill. He pushed the car down the hill, and it went very fast. Tim was so excited that his weak little car could now go faster than ever before. And that's how Tim discovered the power of adding more fun to his toy car.
