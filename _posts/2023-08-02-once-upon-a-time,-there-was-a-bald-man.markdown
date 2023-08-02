@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a bald man
+date: 2023-08-02 08:45:36 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a bald man. He loved to play with his drum. One day, he went to the park with his drum to play for the kids.
+As soon as he arrived, he felt a big drop of water on his head. He looked up and saw dark clouds in the sky. He knew it was going to rain soon. The bald man was worried that his drum would get wet and ruined.
+The bald man and the kids played and played. But then, the rain came pouring down. The rain made the ground very wet and slippery. The drum started to slip from the bald man's hands. Just in time, the drum landed in a puddle, but it was still okay. The bald man was happy and the kids clapped for him. They all laughed and played in the water until the sun came out again.
