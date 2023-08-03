@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-08-03 02:48:12 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a little girl named Lily. She had a pretty dress that she loved to wear. One day, Lily was very tired after playing all day. She wanted to take a nap, but she couldn't find her favorite dress.
+Lily looked and looked for her dress. She asked her mom, "Mom, where is my dress?" Her mom said, "I don't know, Lily. Maybe it is in your room." Lily went to her room and found her dress under her bed. She was so happy!
+Now that Lily had her dress, she put it on and went to play with her toys. She played with her dolls, her cars, and her blocks. After a while, she felt even more tired. But she didn't want to stop playing. So, she knew it was time to take a nap. She went to her bed, put on her cozy pajamas, and fell asleep. And when she woke up, she felt much better and ready to play again.
