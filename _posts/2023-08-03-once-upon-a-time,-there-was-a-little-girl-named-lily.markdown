@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-08-03 02:48:12 +0200
+date: 2023-08-03 20:50:46 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She had a pretty dress that she loved to wear. One day, Lily was very tired after playing all day. She wanted to take a nap, but she couldn't find her favorite dress.
-Lily looked and looked for her dress. She asked her mom, "Mom, where is my dress?" Her mom said, "I don't know, Lily. Maybe it is in your room." Lily went to her room and found her dress under her bed. She was so happy!
-Now that Lily had her dress, she put it on and went to play with her toys. She played with her dolls, her cars, and her blocks. After a while, she felt even more tired. But she didn't want to stop playing. So, she knew it was time to take a nap. She went to her bed, put on her cozy pajamas, and fell asleep. And when she woke up, she felt much better and ready to play again.
+Once upon a time, there was a little girl named Lily. She loved to play outside in the garden. One day, she found a beautiful flower with deep colors. She picked it up and showed it to her mom. 
+"Mommy, look at this pretty flower I found!" Lily said.
+"That's lovely, Lily. You can hold it and take care of it," her mom replied.
+Lily held the flower in her hand and continued to play. Later that day, she saw a bird with a broken wing. She remembered the flower and how she held it close. She thought about the bird and how important it was to be kind to animals. 
+So, she gently held the bird in her hands and brought it to her mom. Her mom helped the bird and soon it was able to fly again. Lily felt happy knowing that she helped the bird. She learned that holding something gently and kind to others is important.
