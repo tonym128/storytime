@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-08-04 08:52:21 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to drink tea with her mom every day. One day, her mom made a special tea that was very powerful.
 Lily asked her mom, "What is powerful?" Her mom replied, "It means it can make you feel very strong or powerful."
 Lily took a sip of the special tea and suddenly felt a burst of energy. She said to her mom, "This tea is so powerful that it makes me run super fast!"
