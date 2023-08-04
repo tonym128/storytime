@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a friendly cat named Tom
+date: 2023-08-04 02:51:31 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a friendly cat named Tom. Tom liked to play with his toy mouse near the toilet. One day, Tom saw the toilet door open. He thought, "I can guess who is inside!"
+As Tom looked in, he saw a big frog! The frog said, "Hi, I am Fred. Do you want to play with me?" Tom was surprised and said, "Yes, let's play!" They played and had a lot of fun.
+But then, something unexpected happened. Fred the frog jumped into the toilet and turned into a beautiful fish! Tom was so surprised. Fred said, "I am a magic fish! When I jumped in, I turned into a frog." Tom and Fred became best friends and played together every day.
