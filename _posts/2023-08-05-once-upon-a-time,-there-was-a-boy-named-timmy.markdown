@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a boy named Timmy
+date: 2023-08-05 20:34:24 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a boy named Timmy. Timmy loved to play outside and run around. One day, he saw his friend Billy playing with a ball. 
 "Can I play with you?" asked Timmy.
 "Sure!" said Billy. "Let's see who can throw the ball the farthest."
