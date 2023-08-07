@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-08-07 02:38:32 +0200
+date: 2023-08-07 14:40:19 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She loved playing outside and picking flowers. One day, she found a bottle of lotion in the grass. It smelled really good, so she put some on her hands.
-But then, dark clouds came and it started to rain. Lily didn't want to go inside because she was having so much fun playing. The rain made the lotion on her hands all runny and sticky. 
-Suddenly, Lily had an idea. She ran to her mom's room and put the lotion on her face. But it didn't work anymore! The lotion was too wet and bitter. Lily learned that lotion doesn't change clothes, but you wear it anyway.
+Once upon a time, there was a little girl named Lily. She loved to play outside in the park with her friends. One day, she found a shiny rock and put it in her pocket. She loved the texture of the rock because it was smooth and cool.
+Later that day, Lily's mommy told her that they were going to the store. Lily was excited to go, but as they walked, she started to get impatient. She wanted to go to the park again and play with her friends.
+When they got back to the park, Lily remembered the shiny rock in her pocket. She took it out and showed it to her friends. They all thought it was pretty cool too. Lily put the rock back in her pocket and they continued playing.
+As they were leaving the park, Lily realized that the shiny rock was gone. She looked in her pocket, but it wasn't there. She was sad, but then she looked down and saw a shiny coin on the ground. She picked it up and showed it to her friends. They all smiled and knew that Lily had found something special.
