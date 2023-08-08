@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little boy named Tim
+date: 2023-08-08 02:42:21 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a little boy named Tim. Tim had a toy car that he loved to play with. One day, Tim saw a wallet on the floor. He wanted to lift the wallet, but it was too heavy for him. He felt scared because he thought someone might be looking for it.
+Tim went to his friend, Sam. He said, "Sam, I found a wallet, but it is too heavy. Can you help me lift it?" Sam was not scared, so he said, "Yes, I will help you, Tim." They went to the wallet and lifted it together.
+As they lifted the wallet, a big man came running. He saw the wallet and got very angry. He said, "That is my wallet! Give it back!" Tim and Sam were scared and gave the wallet back to the man. The man took his wallet and went away. Tim and Sam were sad because they did not find out whose wallet it was.
