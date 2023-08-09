@@ -1,17 +1,14 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-08-09 08:46:58 +0200
+date: 2023-08-09 14:47:59 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She loved to play outside in the sun. One day, she saw her friend Billy walking by. She said, "Hi Billy, do you want to come play with me?"
-Billy said, "Yes, I would love to play with you Lily." 
-Lily invited Billy to play with her in her garden. They played with their toys and ran around in the grass. After a while, Billy saw a butterfly and tried to catch it. But the butterfly flew away too fast.
-Lily said, "Don't worry Billy, the spirit of the butterfly will come back." 
-Billy smiled and said, "That's right Lily, I hope so." 
-As they played, the weather started to get harsh and cold. Lily said, "It's getting cold in here. Let's go inside and have some hot chocolate." 
-They went inside and had some hot chocolate together. They were happy to have each other as friends and wondered what other fun things they could do together.
+Once upon a time, there was a little girl named Lily. She had a cute puppy named Max. One day, Lily took Max for a walk in the park. Max was so excited to go outside and play. 
+When they got to the park, Lily saw a big wheel that could whirl round and round. She asked Max if he wanted to go on it with her. Max barked happily and wagged his tail. 
+Lily put Max on the wheel and they started to spin around and around. It was so much fun! When they got off, Max was a little dizzy and smelly. Lily said, "Max, you need a bath!" Max replied, "Woof woof, okay!" 
+Lily and Max went back home and Max took a nice bath. Lily snuggled up with Max and said, "Goodnight, Max. You are my best friend." Max wagged his tail and licked Lily's face. They both fell asleep, happy and tired from their fun day at the park.
