@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, in a big forest, there was a little mushroom
+date: 2023-08-11 02:53:30 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, in a big forest, there was a little mushroom. The mushroom felt helpless because it was all alone. It wanted to find friends to play with, but it could not move.
+One sunny day, a tiny bug came by. The bug saw the helpless mushroom and wanted to be its friend. The bug said, "Hi, mushroom! Do you want to play with me?" The mushroom was very happy and said, "Yes, I want to play with you!"
+So, the bug and the mushroom played all day long. They laughed and had lots of fun. The mushroom was not helpless anymore because it had a new friend. The bug helped the mushroom get stronger, and they were best friends forever.
