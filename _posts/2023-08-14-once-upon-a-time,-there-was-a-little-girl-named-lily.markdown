@@ -1,16 +1,13 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-08-14 09:05:59 +0200
+date: 2023-08-14 21:07:50 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She loved to play with her toys and run around in the park. One day, Lily's mom asked her to go upstairs to get her favorite book. But Lily was scared to go upstairs by herself because it was dark and mysterious.
-Lily's mom said, "Don't worry, I'll go with you." So, Lily and her mom took each other's hands and started going upstairs. As they were walking, Lily noticed that her mom was holding a spray bottle.
-"What are you doing with that spray bottle, mommy?" Lily asked.
-"I'm spraying the plants to keep them healthy so they can grow big and strong," her mom replied.
-Lily thought about it for a moment and said, "I want to help too!"
-So, they both sprayed the plants together and went back downstairs. Lily felt proud that she could help her mom and learned that even if something seems mysterious or scary, it's always good to face it with someone you trust.
+Once upon a time, there was a little girl named Lily. She loved to play outside with her friends. One day, she saw a shooting star in the sky and shouted, "Wow, look at the star! It's so pretty!"
+Her friend Timmy said, "I want to catch the star and keep it forever." But Lily said, "No, we can't catch the star, it's too far away."
+Suddenly, a friendly bird flew down and said, "I can help you catch the star, but we need to decorate my nest first." So, Lily and Timmy helped the bird decorate its nest with pretty flowers and shiny stars. The bird was so happy that it gave them a ride on its back to catch the star. They reached the star and brought it back to the bird's nest. The bird was so grateful that it gave them a ride back home. From that day on, Lily and Timmy always looked up at the stars and remembered their friendly bird friend.
