@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-08-14 03:04:55 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a little girl named Lily. She loved to play outside in the garden and pick flowers. One day, she saw a witch in the garden. The witch had a big hat and a long nose. Lily was scared and ran away.
+The next day, Lily's mom asked her to help wash the dishes. Lily was happy to help. She put soap and water in the bowl and scrubbed them clean. When they were done, Lily's mom gave her a cookie as a reward.
+Later that night, Lily was in bed when she heard a strange noise. She peeked out the window and saw the witch from the garden. The witch was trying to take Lily's cookie! But then Lily had an idea. She remembered that her friend had taught her how to make witch dust. So, she put on some dust from her cup and poured it on the witch's head. The witch ran away and Lily was safe. From that day on, Lily knew that she was brave and could protect herself from anything scary.
