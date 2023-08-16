@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-08-16 03:12:41 +0200
+date: 2023-08-16 21:15:19 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She loved to play outside in the park. One day, she saw a lovely red bow on the ground. She picked it up and put it in her hair. It looked so pretty!
-As Lily was walking around the park, she saw a little boy crying. She went over to him and asked him what was wrong. He said he lost his favorite toy. Lily knew how sad it felt to lose something special, so she decided to help him look for it.
-They searched and searched, but they couldn't find the toy. Suddenly, Lily remembered the lovely bow in her hair. She took it out and waved it in the air. The little boy's eyes got big and he stopped crying. "That's my toy!" he exclaimed. They ran to where the toy was and found it. The little boy was so happy and grateful. Lily learned that helping others can make them happy and that sometimes, a little kindness can go a long way.
+Once upon a time, there was a little girl named Lily. She loved to draw and color pictures. One day, she drew a picture of a big yellow sun in the sky. 
+Her mom came in and said, "Wow, Lily! That's such a beautiful picture. You are so talented!"
+Lily smiled and said, "Thank you, Mommy. I want to print it out and put it on my wall."
+Her mom said, "Sure, we can print it out and hang it up. First, we need to fold the paper in half."
+Lily helped her mom fold the paper and they printed it out with the printer. Then, they put it on the wall and it looked so pretty. Lily felt calm and happy looking at her picture every day.
