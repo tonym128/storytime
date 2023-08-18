@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-08-18 05:08:38 +0200
+date: 2023-08-18 17:10:31 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She loved to play outside with her friends. One day, Lily's mom asked her to deliver a package to their neighbor. Lily was happy to help her mom and took the package with her.
-As Lily walked to the neighbor's house, she noticed a pretty frame lying on the ground. It was shiny and had sparkles on it. She picked it up and decided to keep it for herself.
-When she arrived at the neighbor's house, Lily knocked on the door. But when the neighbor answered, Lily was embarrassed to show her the frame. She had accidentally broken it while carrying the package.
-To her surprise, the neighbor didn't get mad. Instead, she told Lily that it was okay and that she was happy to see something so beautiful. Lily felt relieved and happy that the neighbor was kind. From then on, Lily learned to be honest and not take things that didn't belong to her.
+Once upon a time, there was a little girl named Lily. One day, she went to the park to play with her friend, Timmy. They played on the swings and the slide, and Lily said, "Look, Timmy! We can draw silly faces on the ground!" 
+Timmy thought that was a great idea, so they started drawing silly faces with sticks and stones. Suddenly, they heard a loud noise. It was a group of birds flying overhead. 
+Lily said, "Wow, that bird sounds so pretty!" Timmy agreed and said, "Let's feed them some bread crumbs." 
+So, they ran to get some bread crumbs and threw them on the ground. The birds came down and ate the crumbs happily. Lily and Timmy were so happy to see the birds enjoying their snack. They continued to play and have fun at the park until it was time to go home.
