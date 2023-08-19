@@ -113,7 +113,7 @@ def createPodcastRSS():
             fe.id(values["media_url"])
             fe.title(values["title"])
             fe.podcast.itunes_author("Tony Mamacos")
-            fg.podcast.itunes_owner('Tony Mamacos', 'tmamacos@gmail.com')
+            fe.author({"name": "Tony Mamacos", "email": "tmamacos@gmail.com"})
             fe.link(href=values["post_url"], rel="alternate")
             fe.link(href=values["post_url"], rel="self")
             fe.enclosure(values["media_url"], 0, "audio/mpeg")
