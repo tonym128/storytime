@@ -100,6 +100,7 @@ def createPodcastRSS():
             fe.id(values["media_url"])
             fe.title(values["title"])
             fe.link(href=values["post_url"], rel="alternate")
+            fe.link(href=values["post_url"], rel="self")
             fe.enclosure(values["media_url"], 0, "audio/mpeg")
 
     fg.atom_file("atom.xml")  # Write the ATOM feed to a file
