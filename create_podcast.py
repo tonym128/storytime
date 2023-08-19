@@ -55,6 +55,8 @@ def createPodcastRSS():
     fg.link(href="https://ttech.mamacos.media/storytime", rel="self")
     fg.description("A daily post cast of an AI generated short story")
 
+    listing = os.listdir(directory)
+    listing.sort(reverse=True)
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -74,9 +76,9 @@ def createPodcastRSS():
             body = ""
             values = {}
             values["filename"] = os.path.splitext(Path(f).with_suffix("").stem)[0]
-            year = 2023
-            month = 9
-            day = 23
+            year = values["filename"][:4]
+            month = values["filename"][5:7]
+            day = values["filename"][8:10]
             values[
                 "post_url"
             ] = "https://ttech.mamacos.media/storytime/post/{}/{}/{}/{}.html".format(
@@ -112,7 +114,6 @@ def createPodcastRSS():
     fg.atom_file("atom.xml")  # Write the ATOM feed to a file
     fg.rss_file("rss.xml")  # Write the ATOM feed to a file
     return
-
 
 getStoryText()
 processStories()
