@@ -1,12 +1,11 @@
 # import required module
 import os
 from pathlib import Path
-import pprint
 from feedgen.feed import FeedGenerator
 
 # assign directory
 directory = "_posts"
-
+piper_directory = "../piper/"
 
 ## Save stories to piper dir
 def getStoryText():
@@ -33,6 +32,13 @@ def getStoryText():
 # Get piper to process stories where there isn't an mp3
 # Copy files to media directory
 def processStories():
+    dirlisting = os.listdir(piper_directory)
+    dirlisting.sort()
+    for filename in dirlisting:
+        if filename.endswith(".txt"):
+            if not os.path.exists(piper_directory + filename + ".mp3"):
+                # story without mp3
+                os.system("./piper.sh " + filename)
     return
 
 
@@ -108,4 +114,6 @@ def createPodcastRSS():
     return
 
 
+getStoryText()
+processStories()
 createPodcastRSS()
