@@ -51,6 +51,7 @@ def createPodcastRSS():
     fg.podcast.itunes_category("Technology", "Podcasting")
     fg.podcast.itunes_image("https://github.com/tonym128/storytime/raw/main/ai_generated_stories.png")
     fg.podcast.itunes_author("Tony Mamacos")
+    fg.podcast.itunes_owner('Tony Mamacos', 'tmamacos@gmail.com')
     fg.image("https://github.com/tonym128/storytime/raw/main/ai_generated_stories.png")
     fg.author({"name": "Tony Mamacos", "email": "tmamacos@gmail.com"})
     fg.language("en")
