@@ -7,6 +7,7 @@ from feedgen.feed import FeedGenerator
 directory = "_posts"
 piper_directory = "../piper/"
 
+
 ## Save stories to piper dir
 def getStoryText():
     for filename in os.listdir(directory):
@@ -48,7 +49,7 @@ def createPodcastRSS():
     fg.load_extension("podcast")
     fg.title("AI Daily Short Story")
     fg.podcast.itunes_category("Technology", "Podcasting")
-    fg.podcast.itunes_image('https://github.com/tonym128/storytime/raw/main/ai_generated_stories.png')
+    fg.podcast.itunes_image("https://github.com/tonym128/storytime/raw/main/ai_generated_stories.png")
     fg.author({"name": "Tony Mamacos", "email": "tmamacos@gmail.com"})
     fg.language("en")
 
@@ -115,6 +116,7 @@ def createPodcastRSS():
     fg.atom_file("atom.xml")  # Write the ATOM feed to a file
     fg.rss_file("rss.xml")  # Write the ATOM feed to a file
     return
+
 
 getStoryText()
 processStories()
