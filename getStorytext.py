@@ -36,6 +36,16 @@ def processStories():
 # Check all posts and create podcast rss
 def createPodcastRSS():
     fg = FeedGenerator()
+    fg.load_extension('podcast')
+    fg.title("AI Daily Short Story")
+    fg.podcast.itunes_category('Technology', 'Podcasting')
+    fg.author( {'name':'Tony Mamacos','email':'tmamacos@gmail.com'} )
+    fg.language('en')
+
+    fg.id("https://ttech.mamacos.media/storytime")
+    fg.link(href="https://ttech.mamacos.media/storytime")
+    fg.description("A daily post cast of an AI generated short story")
+    
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -67,17 +77,17 @@ def createPodcastRSS():
                     count += 1
             values['body'] = body
             file1.close()
-            pprint.pprint(values)
+
             ## TODO Testing
             fe = fg.add_entry()
+        
             fe.id(values['media_url'])
             fe.title(values['title'])
             fe.link(href=values['post_url'])
-            fg.author( {'name':'Tony Mamacos','email':'tmamacos@gmail.com'} )
-            fg.language('en')
+            fe.enclosure(values['post_url'], 0, 'audio/mpeg')
 
-            fg.atom_file('atom.xml') # Write the ATOM feed to a file
-            fg.rss_file('rss.xml') # Write the RSS feed to a file
+    fg.atom_file('atom.xml') # Write the ATOM feed to a file
+    fg.rss_file('rss.xml') # Write the ATOM feed to a file
     return
 
 createPodcastRSS()
