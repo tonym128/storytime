@@ -62,7 +62,7 @@ def createPodcastRSS():
 
     listing = os.listdir(directory)
     listing.sort()
-    for filename in os.listdir(directory):
+    for filename in listing:
         f = os.path.join(directory, filename)
         # checking if it is a file
         if os.path.isfile(f):
@@ -121,7 +121,6 @@ def createPodcastRSS():
     fg.atom_file("atom.xml")  # Write the ATOM feed to a file
     fg.rss_file("rss.xml")  # Write the ATOM feed to a file
     return
-
 
 getStoryText()
 processStories()
