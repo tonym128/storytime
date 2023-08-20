@@ -49,7 +49,7 @@ def createPodcastRSS():
     fg.load_extension("podcast")
     fg.title("AI Daily Short Story")
     fg.podcast.itunes_category("Technology", "Podcasting")
-    fg.podcast.itunes_image("https://github.com/tonym128/storytime/raw/main/ai_generated_stories.png")
+    fg.podcast.itunes_image("https://github.com/tonym128/storytime/raw/main/ai_generated_stories_3k.png")
     fg.podcast.itunes_author("Tony Mamacos")
     fg.podcast.itunes_owner('Tony Mamacos', 'tmamacos@gmail.com')
     fg.image("https://github.com/tonym128/storytime/raw/main/ai_generated_stories.png")
@@ -107,12 +107,12 @@ def createPodcastRSS():
             values["body"] = body
             file1.close()
 
-            ## TODO Testing
             fe = fg.add_entry()
-
             fe.id(values["media_url"])
-            fe.title(values["title"])
+            fe.title(values["filename"][0:10] + " - " + values["title"])
             fe.podcast.itunes_author("Tony Mamacos")
+            order = "{}{}{}".format(year,month,day)
+            fe.podcast.itunes_order(int(order))
             fe.author({"name": "Tony Mamacos", "email": "tmamacos@gmail.com"})
             fe.link(href=values["post_url"], rel="alternate")
             fe.link(href=values["post_url"], rel="self")
