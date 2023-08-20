@@ -61,7 +61,7 @@ def createPodcastRSS():
     fg.description("A daily pod cast of an AI generated short story")
 
     listing = os.listdir(directory)
-    listing.sort(reverse=True)
+    listing.sort()
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
