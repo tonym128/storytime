@@ -58,7 +58,7 @@ def createPodcastRSS():
 
     fg.id("https://ttech.mamacos.media/storytime")
     fg.link(href="https://ttech.mamacos.media/storytime", rel="self")
-    fg.description("A daily post cast of an AI generated short story")
+    fg.description("A daily pod cast of an AI generated short story")
 
     listing = os.listdir(directory)
     listing.sort(reverse=True)
@@ -110,6 +110,7 @@ def createPodcastRSS():
             fe = fg.add_entry()
             fe.id(values["media_url"])
             fe.title(values["filename"][0:10] + " - " + values["title"])
+            fe.description(values["body"])
             fe.podcast.itunes_author("Tony Mamacos")
             order = "{}{}{}".format(year,month,day)
             fe.podcast.itunes_order(int(order))
