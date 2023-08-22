@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little boy named Timmy
+date: 2023-08-22 02:08:04 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little boy named Timmy. Timmy loved to play outside, but he was afraid of the dark. One night, Timmy was playing with his friend Billy when they saw a glowing light in the distance.
 "Wow, what is that?" Timmy asked.
 "I don't know, let's go check it out!" Billy replied.
