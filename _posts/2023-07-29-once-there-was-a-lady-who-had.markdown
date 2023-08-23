@@ -2,7 +2,8 @@
 layout: post
 title:  "Once there was a lady who had an important meal to feed."
 date:   2023-07-29 13:03:22 +0100
-categories: story
+categories: ["post"]
+tags: ["Story"]
 ---
 Once there was a lady who had an important meal to feed. She was busy in the kitchen when suddenly, the phone rang. She stopped what she was doing and quickly answered the phone. It was her friend and she said it was time to feed the meal. 
 The lady went to grab all the ingredients she would need and put them on the counter. She was counting down the spices and spices. 
