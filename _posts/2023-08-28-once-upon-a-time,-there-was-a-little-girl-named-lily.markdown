@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-08-28 08:41:19 +0200
+date: 2023-08-28 14:42:25 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She loved to play outside with her friends. One day, Lily's mom suggested they have a picnic in the park. Lily was very excited and helped her mom pack sandwiches, fruit, and cookies.
-When they arrived at the park, Lily's mom put down a big blanket and started to unpack the food. Lily helped by juice boxes and water bottles. As they ate, Lily's friend Sarah said, "This picnic is so lively!"
-Lily's mom smiled and said, "I'm glad you enjoy it. Let's all have some more food to eat." After they finished eating, Lily and her friends played some games and ran around the park. It was a fun day for everyone!
+Once upon a time, there was a little girl named Lily. She lived in a small house with her mommy and daddy. Lily loved to play with her toys on the soft carpet in her room. One day, she saw a big number on the carpet. It was the number 5. Lily was very excited and looked at the number for a long time.
+Lily wanted to find out what the number meant, but she was too little to climb on the carpet. She felt frustrated because she couldn't see what was under her toys. She tried to walk around the carpet, but it was too big. Lily didn't give up. She tried to climb on the carpet again, but it was still too big.
+Lily's mommy saw her trying to climb on the carpet. She came into the room and saw Lily's sad face. Mommy knew what the number 5 meant, so she helped Lily find out. It was the color of her birthday! Lily was so happy to know what the number was. She gave her mommy a big hug and they played with her toys on the car
