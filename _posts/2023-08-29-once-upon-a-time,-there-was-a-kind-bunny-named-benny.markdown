@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a kind bunny named Benny
+date: 2023-08-29 08:48:52 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a kind bunny named Benny. Benny loved to hop and play in the forest. One day, while he was hopping along, he saw a little bird sitting on a branch. The bird looked sad.
 Benny asked, "Why are you sad?"
 The bird said, "I lost my way home. I don't know where to go."
