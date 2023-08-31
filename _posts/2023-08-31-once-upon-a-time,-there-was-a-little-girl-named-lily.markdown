@@ -1,0 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-08-31 02:56:59 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
+Once upon a time, there was a little girl named Lily. She loved to play outside in the sunshine. One day, she saw a big red apple on a tree. She wanted to grab it and taste it. 
+Lily looked up and saw a tall spirit flying above her. The spirit was friendly and smiled at her. The spirit said, "You can grab the apple if you want." 
+Lily reached up and grabbed the apple. It was juicy and sweet. She took a big bite and smiled. The spirit was happy that Lily liked the apple. From that day on, Lily and the spirit became friends and would often play together in the sunshine.
