@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Once upon a time, there was a little girl named Lily
-date: 2023-09-02 15:08:46 +0200
+date: 2023-09-02 21:09:52 +0200
 comments: true
 published: true
 categories: ["post"]
 tags: ["Story"]
 author: Tony Mamacos
 ---
-Once upon a time, there was a little girl named Lily. She loved to play outside in nature. She would pick flowers and chase butterflies. One day, Lily was playing in the park when it started to rain. She was sad because she couldn't play outside anymore.
-As she was walking home, she saw a little bird sitting on the ground. The bird looked sad and was shivering. Lily felt compassionate and wanted to help the bird. She remembered that her mommy always told her to be kind to animals. So, she picked up the bird and took it home.
-When they got home, Lily's mommy was surprised to see the bird. Lily explained what happened and her mommy was proud of her for being so kind. They put the bird in a warm and cozy place and gave it some food. The next day, the bird was feeling better and it flew away. Lily was happy that she could help the bird and she learned that being compassionate can make a big difference.
+Once upon a time, there was a little girl named Lily. She loved to explore the forest and find new things. One day, she found a shiny rock that she thought was very pretty. She showed it to her friend, a talking bunny named Benny.
+Benny said, "That's a mineral, Lily. It's very special and valuable." Lily was happy to hear that and put the mineral in her pocket.
+As they were walking, they saw a big, scary bear. Benny said, "We need to be careful, Lily. Bears can be dangerous." Lily was scared, but she remembered that she had a secret weapon. She reached into her pocket and took out the mineral.
+She held it up and said, "I have this mineral. It's magical and will protect us." Suddenly, the mineral began to glow and shake. The bear was scared and ran away.
+Lily and Benny were amazed. They had never seen anything like it before. Lily looked at the mineral and said, "I guess this is truly special. Let's keep it safe." From that day
