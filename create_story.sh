@@ -13,5 +13,5 @@ git add *
 git commit -a -m "New Story"
 git push
 
-sleep 21600
+sleep 86400 
 done
