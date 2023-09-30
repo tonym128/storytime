@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-09-30 12:54:08 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to go on walks with her mommy in the forest. One day, they went on a walk and saw a deer. The deer was very smelly because he had been playing in the mud.
 Lily said, "Mommy, look at the deer! He's so smelly!"
 Her mommy replied, "Yes, he is. But he's still beautiful to look at."
