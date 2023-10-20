@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-10-20 13:22:26 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to play with her toys and run around outside. One day, she went to the park to play with her friend, Max.
 "Hi Max!" said Lily.
 "Hi Lily!" said Max. "Do you want to play on the swings?"
