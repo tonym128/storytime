@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-10-25 13:28:59 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to play outside in the sunshine. One day, she found a shiny axe in the garden. 
 "Wow, this is so cool!" said Lily.
 Her mom came outside and saw the axe. "Lily, that is dangerous. You should not play with it," said her mom.
