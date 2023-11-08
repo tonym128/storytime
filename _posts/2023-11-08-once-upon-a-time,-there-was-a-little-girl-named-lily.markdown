@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-11-08 12:47:32 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to play with her toys and create new things. One day, she decided to make a castle out of cardboard boxes. She cut out windows and doors and painted it with bright colors.
 Her mom asked, "Wow, Lily! What a charming castle you made! Did you use a magic wand?"
 Lily replied, "No, Mommy. I used my imagination. But I'm proud of what I created!"
