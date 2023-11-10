@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-11-10 12:50:36 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to play in the garden with her toys. One day, she saw a big, tall sunflower. It was so tall that it almost touched the sky. 
 Lily's friend, a little boy named Jack, came to play with her. They both stared at the sunflower. "Wow, it's so pretty!" said Jack. 
 Lily was curious and asked Jack, "What is that big flower called?" 
