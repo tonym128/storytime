@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-11-13 11:00:46 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to play in the garden with her toys. One day, she found a beautiful poppy flower. She picked it up and showed it to her mom.
 "Mommy, look! I found a pretty flower!" said Lily.
 Her mom smiled and said, "That's lovely, Lily. But be careful, poppies can be dangerous if they have thorns."
