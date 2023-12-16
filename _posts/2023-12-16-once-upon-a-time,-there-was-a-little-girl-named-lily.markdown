@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2023-12-16 10:19:34 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. She loved to play dress-up and wear different costumes. One day, she put on her princess costume and went to show her mommy.
 "Look, mommy! I'm a princess!" Lily said.
 "You look beautiful, my little princess," mommy replied.
