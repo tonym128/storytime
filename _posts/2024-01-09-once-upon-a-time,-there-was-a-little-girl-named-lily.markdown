@@ -1,3 +1,13 @@
+---
+layout: post
+title: Once upon a time, there was a little girl named Lily
+date: 2024-01-09 16:06:48 +0200
+comments: true
+published: true
+categories: ["post"]
+tags: ["Story"]
+author: Tony Mamacos
+---
 Once upon a time, there was a little girl named Lily. Lily loved to play outside in the sunshine. One day, she went to the park with her mommy. They played on the swings and the slide. 
 Suddenly, Lily's mommy said, "It's getting late, we have to come home. Are you ready to go?" 
 Lily said, "Yes mommy!" and they walked home together. When they got home, Lily's mommy said, "It's time for your bath. Let's store your toys in the toy box." 
