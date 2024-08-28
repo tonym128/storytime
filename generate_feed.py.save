@@ -1,6 +1,6 @@
 from feedgen.feed import FeedGenerator
 fg = FeedGenerator()
-fg.id('https://ttech.mamacos.media/storytime/media/2023-07-29-once-there-was-a-lady-who-had.txt.mp3')
+fg.id('https://tonym128.github.io/storytime/media/2023-07-29-once-there-was-a-lady-who-had.txt.mp3')
 fg.title('Once there was a lady who had an important meal to feed.')
 fg.author( {'name':'Tony Mamacos','email':'tmamacos@gmail.com'} )
 fg.link( href='', rel='alternate' )

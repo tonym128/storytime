@@ -56,8 +56,8 @@ def createPodcastRSS():
     fg.author({"name": "Tony Mamacos", "email": "tmamacos@gmail.com"})
     fg.language("en")
 
-    fg.id("https://ttech.mamacos.media/storytime")
-    fg.link(href="https://ttech.mamacos.media/storytime", rel="self")
+    fg.id("https://tonym128.github.io/storytime")
+    fg.link(href="https://tonym128.github.io/storytime", rel="self")
     fg.description("A daily pod cast of an AI generated short story")
 
     listing = os.listdir(directory)
@@ -86,7 +86,7 @@ def createPodcastRSS():
             day = values["filename"][8:10]
             values[
                 "post_url"
-            ] = "https://ttech.mamacos.media/storytime/post/{}/{}/{}/{}.html".format(
+            ] = "https://tonym128.github.io/storytime/post/{}/{}/{}/{}.html".format(
                 year, month, day, values["filename"][11:]
             )
             values[
